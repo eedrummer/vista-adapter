@@ -1,0 +1,4 @@
+host: 127.0.0.1
+port: "8002"
+access_code: SM1234
+verify_code: SM1234!!
